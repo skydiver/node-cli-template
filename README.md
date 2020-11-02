@@ -3,9 +3,8 @@
 
 ## Instructions
 1. rename `bin/run.js` with your command name (replace on package.json too)
-2. rename `bin/command1.js` with your command name (replace on bin/run.js)
-3. rename `commands/command1.js` with your command name (replace on bin/command1.js)
-4. add as many commands as you like on `bin/run.js` and creating corresponding file on `bin` & `commands` directories.
+2. rename `commands/command1.js` with your command name (replace on bin/command1.js)
+3. add as many commands as you like on `bin/run.js` and creating corresponding file on `commands` directories.
 
 
 ## Dependencies
