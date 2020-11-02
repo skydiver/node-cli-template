@@ -1,6 +1,6 @@
 {
   "name": "node-cli-template",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Starter template for your node cli applications",
   "author": "Martín M.",
   "license": "MIT",
@@ -9,12 +9,12 @@
     "your_command": "./bin/run.js"
   },
   "dependencies": {
-    "chalk": "^4.0.0",
+    "chalk": "^4.1.0",
     "cli-table": "^0.3.1",
     "configstore": "^5.0.1",
-    "inquirer": "^7.1.0",
-    "node-fetch": "^2.6.0",
+    "inquirer": "^7.3.3",
+    "node-fetch": "^2.6.1",
     "sywac": "^1.3.0",
-    "update-notifier": "^4.1.0"
+    "update-notifier": "^5.0.1"
   }
 }
